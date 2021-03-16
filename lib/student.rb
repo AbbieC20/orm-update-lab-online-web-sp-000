@@ -53,4 +53,4 @@ class Student
     new_student.name = row[1]
     new_student.grade = row[2]
     new_student
-end
+  end
